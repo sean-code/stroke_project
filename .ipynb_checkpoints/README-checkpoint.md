@@ -1,4 +1,4 @@
-# stroke_project
+## Stroke Project File Setup
 
 ```
 stroke_project/
