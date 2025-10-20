@@ -1,5 +1,6 @@
 ## Stroke Project File Setup
 
+
 ```
 stroke_project/
 │
