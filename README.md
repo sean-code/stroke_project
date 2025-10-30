@@ -5,7 +5,8 @@
 stroke_project/
 │
 ├── data/
-│   └── healthcare-dataset-stroke-data.csv
+│   └── raw_dataset.csv
+|   └── stroke_clean.csv     
 ├── notebooks/
 │   └── 01_EDA_and_Cleaning.ipynb
 │   └── 02_Modeling_and_Evaluation.ipynb
