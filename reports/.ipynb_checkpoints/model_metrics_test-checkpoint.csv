@@ -1,0 +1,4 @@
+model,roc_auc,pr_auc
+Logistic (balanced),0.84,0.2500549800403146
+RandomForest + SMOTETomek,0.812304526748971,0.1607443720503766
+XGBoost (tuned + calibrated),0.8336625514403292,0.22843890793343766
