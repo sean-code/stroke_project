@@ -1,0 +1,12 @@
+feature,mean_abs_shap
+num__age_bmi_interaction,0.06897715541709713
+num__age,0.06405305214579188
+num__bmi,0.03406309116994215
+num__avg_glucose_level,0.02613218693277942
+num__age_glucose_ratio,0.024291053379734782
+cat__smoking_status_never smoked,0.008929758352839705
+cat__smoking_status_unknown,0.007028018177733169
+cat__smoking_status_smokes,0.003005523549176326
+cat__smoking_status_formerly smoked,0.0014873966310033125
+cat__smoking_known_0,0.0007483744073203211
+cat__smoking_known_1,5.1890701895733666e-05
