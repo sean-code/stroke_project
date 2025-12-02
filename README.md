@@ -10,17 +10,27 @@ The aim is to build a predictive system that identifies high-risk individuals ea
 stroke_project/
 │
 ├── data/
-│   └── raw_dataset.csv # Original Kaggle dataset
-|   └── stroke_clean.csv # Cleaned dataset ready for modeling
-
+│   ├── raw_dataset.csv
+│   ├── stroke_clean.csv
+│
 ├── notebooks/
-│   └── 01_EDA_and_Cleaning.ipynb
-│   └── 02_Modeling_and_Evaluation.ipynb
-│   └── 03_SHAP_Interpretation.ipynb
+│   ├── 01_EDA_and_Cleaning.ipynb
+│   ├── 02_Modeling_and_Evaluation.ipynb
+│   ├── 03_SHAP_Interpretation.ipynb
+│
 ├── reports/
-│   └── figures/ / # ROC, PR, confusion-matrix plots
-│   └── model_metrics.csv # AUC and precision-recall metrics for each model
+│   ├── figures/
+│   │   ├── roc_pr_imbalanced.png
+│   │   ├── roc_pr_balanced.png
+│   │   ├── shap_beeswarm_xgb.png
+│   │   ├── shap_waterfall_high.png
+│   │   ├── shap_waterfall_low.png
+│   ├── top_shap_xgb.csv
+│   ├── Stroke_Final_Paper.pdf
+│   ├── Stroke_Final_Slides.pdf
+│
 └── README.md
+
 
 ```
 
