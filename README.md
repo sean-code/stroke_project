@@ -64,9 +64,6 @@ stroke_project/
 
 
 
-
-
-
 ## 📈 Key Results Snapshot
 | Model                            | Training Condition | ROC-AUC  | PR-AUC   | Recall   | F2       |
 | -------------------------------- | ------------------ | -------- | -------- | -------- | -------- |
